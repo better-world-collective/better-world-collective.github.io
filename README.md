@@ -1,4 +1,4 @@
-Translations: [Deutsch](manifesto_for_a_better_world_DE.md)
+Translations: [Deutsch](manifesto_for_a_better_world_DE.md) [Français](manifesto_for_a_better_world_FR.md)
 
 
 Manifesto for a better world
