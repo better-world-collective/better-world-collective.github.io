@@ -1,3 +1,6 @@
+Translations: [Deutsch](manifesto_for_a_better_world_DE.md)
+
+
 Manifesto for a better world
 ============================
 
