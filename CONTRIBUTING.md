@@ -1,0 +1,4 @@
+- KISS principle as main guideline
+- one-page only manifesto, separate documents to go further in details
+- spread widely: translations to new languages are welcome, sharing is recommended
+- simple markdown as basis: documents will be exported to needed formats (HTML, PDF, etc.)
