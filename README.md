@@ -14,7 +14,7 @@ Focus on climate change
 
 As we move forward, every step needs to reduce the damage we are doing to our environment.
 
-Invest in Healthcare and Social Services
+Invest in healthcare and social services
 ----------------------------------------
 
 The pandemic has exposed the weaknesses in our health care systems. Let us copy the systems that benefited people the most and replicate them across the globe.
@@ -34,7 +34,7 @@ Treat people with care and respect
 
 Be mindful and work to ensure that all people have their basic needs covered. Respect workers and reward them fairly.
 
-Demand Transparency
+Demand transparency
 -------------------
 
 We need to weave transparency into all governments and public institutions. Without transparency we cannot ensure that governments and companies are following the law.
