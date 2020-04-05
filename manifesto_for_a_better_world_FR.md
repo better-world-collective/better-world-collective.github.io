@@ -16,7 +16,7 @@ Investir dans les systèmes de santé et les services sociaux
 
 La pandémie a révélé les faiblesses de nos systèmes de soins. Inspirons-nous des systèmes qui ont le plus profité aux gens et reproduisons-les à travers le monde.
 
-Coopération> Compétition
+Coopération > Compétition
 -------------------------
 
 Jusqu'à présent, l'accent a été mis sur la concurrence. Nous sommes tous dans le même bateau, nous devons cesser de nous battre et travailler ensemble pour affronter les problèmes du monde.
