@@ -36,11 +36,10 @@ Demand transparency
 
 We need to weave transparency into all governments and public institutions. Without transparency we cannot ensure that governments and companies are following the law.
 
+---
 
-= = = = = = = 
-
-Introduction
-============
+The Manifesto Explained
+=======================
 
 The manifesto for a better world aims to establish a baseline of basic human needs and immediate goals that we need to strive for as the world emerges from the coronavirus pandemic. The goal is to raise the awareness that we all have common goals and that we should be working together to cover human needs and to take care of our environment.
 
