@@ -4,8 +4,8 @@ Manifest für eine bessere Welt
 Menschen retten, nicht Unternehmen
 ----------------------------------
 
-Wenn wir Menschen Geld geben um das Leben neu zu starten, werden die Menschen entscheiden welche Unternehmen leben und 
-welche aussterben.
+Wenn wir denen helfen um einen Neustart zu bewältigen, werden diese entscheiden welche Unternehmen eine Zukunft 
+haben und welche nicht.
 
 
 Fokus auf den Klimawandel
