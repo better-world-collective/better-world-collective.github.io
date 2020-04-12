@@ -2,7 +2,7 @@
 The Better World Manifesto
 ==========================
 
-(Read the Manifesto for a Better World here.)(index.md)
+[Read the Manifesto for a Better World here.](index.md)
 
 Translations 
 ------------
