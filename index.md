@@ -1,9 +1,6 @@
 Translations: [Català](manifesto_for_a_better_world_CA.md) [Deutsch](manifesto_for_a_better_world_DE.md) [Français](manifesto_for_a_better_world_FR.md)
 
 
-Manifesto for a better world
-============================
-
 Bail out people, not corporations
 ---------------------------------
 
@@ -38,3 +35,96 @@ Demand transparency
 -------------------
 
 We need to weave transparency into all governments and public institutions. Without transparency we cannot ensure that governments and companies are following the law.
+
+
+= = = = = = = 
+
+Introduction
+============
+
+The manifesto for a better world aims to establish a baseline of basic human needs and immediate goals that we need to strive for as the world emerges from the coronavirus pandemic. The goal is to raise the awareness that we all have common goals and that we should be working together to cover human needs and to take care of our environment.
+
+This document doesn’t pretend to solve anything but focus people on our common needs as a species. If people believe in this manifesto, we encourage people to take this manifesto and adapt it for your region of the world to address your specific situation. And then we must force our governments to uphold this manifesto to take decisive action to improve the lives of everyone. If the governments refuse, then it is a clear indication that they no longer represent the people and more drastic change is required.
+
+The precise next steps are up to each country and region to decide. We encourage you to help spread this manifesto, to help translate it and to build derivative versions specific to your country or region. And then step into action!
+
+The remainder of this document is a more in depth explanation of the points in the manifesto. It goes a little deeper into defining the problems and outlining our thinking.
+
+
+Bail out people, not corporations
+---------------------------------
+
+Events like pandemics where the economy of a country crashes, require the government to step in and help to restart the economy. In the recent past many governments have chosen to invest in companies in an effort to stimulate the economy with the theory that money would eventually reach the people.
+
+Most of the time that never happened and during the Coronavirus pandemic, we are seeing airlines pay massive dividends at the same time as they are being bailed out. If we bail out corporations, we’re only going to increase the divide between the rich and poor, leading to greater desperation and poverty which will drive up crime.  
+
+Instead of bailing out corporations, who will not look out for citizens, governments should bail out the citizens themselves. Citizens will have the power to restart their life and will choose where to spend the government support money. This in turn will benefit the companies that the citizens need the most and the citizens of the country will decide which companies should survive and which ones should be left behind. 
+
+
+Focus on climate change and our environment
+-------------------------------------------
+
+The coronavirus pandemic has also shown how bad pollution is in this world. The most polluted cities suddenly have blue skies now that drastically fewer cars and planes are polluting our environment. It also showed that people who chronically live with bad air are much more likely to be negatively impacted by the coronavirus.
+
+We can take the lessons learned during the pandemic and reduce our impact on our planet? How can we commute less? Can we have more online meetings and travel less to business meetings? What sustainable technologies can we invest in to displace the polluting technologies?
+
+Now that many sectors of greenhouse gas emitting industries are idled, we’ve drastically reduced our global carbon footprint. We must work hard to keep our CO2 emissions as low as possible as we return to a post Coronavirus world. We must protect our air, our oceans, our forests and our topsoil -- we can no longer steal from mother nature. We must invest in sustainable solutions so that we can care for mother nature. It is our only choice if we wish to survive as a species.
+
+
+Invest in Healthcare and Social Services
+----------------------------------------
+
+Health care is a basic human right and all governments should provide healthcare to everyone, without exception. The epidemic has clearly shown which health care systems work well and which ones do not. We should examine which countries met the challenge well and copy their systems and have our nations be similarly prepared.
+
+Having sufficient shelter and food for every family is also a human right. Too many governments spend money on defense and lavish projects while families go hungry and without shelter. We must hold governments accountable to provide basic human services for all of their citizens. 
+
+We should spend more money on human health than we spend on defense and war and we should never let health care be for-profit.
+
+
+Cooperation > Competition
+-------------------------
+
+We have enough resources in this world to cover everyone's basic needs. But drastic inequality prevents this from happening as some people hoard resources and money. We need to reduce the inequality and free up resources to cover everyone’s basic needs. Especially now during a pandemic, we need to freely share medical information and cooperate on treatments, vaccines and medical devices in order to save lives.
+
+Competing for resources can often be wasteful. How can we focus on cooperating in order to cover the basic needs of all people? The open source movement that produces much of the software that makes the Internet possible is created via global cooperation. This cooperation consumes far fewer resources than a competitive model would consume. How can we cooperate more and compete less?
+
+
+Focus on sharing and leadership
+-------------------------------
+
+Many people idolize the wrong role models. Many of the people whom society looks up to prey on the poor, disrespect other people and focus on questionable human values.
+
+If these role models are hoarding resources and actively creating inequality in the world, why do we look up to them? Hoarding resources does not stimulate the economy and when you have more than you need to live well and you are not sharing these resources, you are violating basic human decency. Being disrespectful or preying on others are not human qualities we should look up to or reward.
+
+Instead we should look up to people who help their communities, people who can effectively lead and people who serve. We need to look up to people who work to ensure everyone has their basic needs covered. We need to look up to people who can inspire future generations.
+
+
+Treat people with care and respect
+----------------------------------
+
+We must always treat people with the care and respect with which we wish to be treated. All workers should be treated and paid fairly and we need to recognize that our essential workers who saved us during the pandemic were the most poorly paid people. We must fix this and pay everyone a fair living wage and provide safe working conditions.
+
+We should also be excellent to others -- everyone is allowed to have a bad day once in a while, but this is no reason to disrespect others. Give people as much space as you can, but be as polite and fair as you can be.
+
+
+Demand Transparency
+-------------------
+
+The epidemic showed that transparent governments had the best response to the virus. Sadly very few governments are transparent since transparency makes it more difficult to hide bad deeds. Many governments will claim that transparency is not possible for national security reasons, when only a small amount of information really must remain classified.
+
+In our competitive world we default to data being closed and not sharing with anyone. 
+Once again we should examine the open source and open data movements to see how free sharing of information can drastically improve life for everyone.
+
+We should shift from a mentality of “everything must be closed, but open some things” to “everything is open, but a few things must remain closed”. When information is freely shared people can be more engaged in their government and people can work to ensure that governments are not stealing from the public. 
+
+
+
+Call to Action
+--------------
+
+Right now the world is in a unique situation we’ve not experienced in modern times. It is an opportunity to address some drastic problems in our world. We’re failing to uphold basic human rights and needs and the pandemic has painfully laid this bare.
+
+Every nation and regions should take this manifesto as a basis and adapt it for their own culture and problems. Then we should take steps to ensure that we do not return to the broken world that used to be normal.
+
+Now is the time to start: We have lots of time to think about how the future should be shaped. 
+
