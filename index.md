@@ -1,131 +1,137 @@
 Translations: | [Català](manifesto_for_a_better_world_CA.md) | [Deutsch](manifesto_for_a_better_world_DE.md) | [Français](manifesto_for_a_better_world_FR.md)
 
-The Better World Manifesto
-==========================
+The Voluntary Human Extinction Movement
+=======================================
 
-Bail out people, not corporations
----------------------------------
+> *"May we live long and die out"*
 
-If we give money to people to restart life, people will decide which companies get to live and which ones become extinct.
+What is the Voluntary Human Extinction Movement?
+------------------------------------------------
 
-Focus on climate change
+VHEMT (pronounced vehement) is a movement not an organization. It’s a movement advanced by people who care about life on planet Earth. We’re not just a bunch of misanthropes and anti-social, Malthusian misfits, taking morbid delight whenever disaster strikes humans. Nothing could be farther from the truth. Voluntary human extinction is the humanitarian alternative to human disasters.
+
+We don’t carry on about how the human race has shown itself to be a greedy, amoral parasite on the once-healthy face of this planet. That type of negativity offers no solution to the inexorable horrors which human activity is causing.
+
+Rather, The Movement presents an encouraging alternative to the callous exploitation and wholesale destruction of Earth’s ecology.
+
+As VHEMT Volunteers know, the hopeful alternative to the extinction of millions of species of plants and animals is the voluntary extinction of one species: Homo sapiens... us.
+
+Each time another one of us decides to not add another one of us to the burgeoning billions already squatting on this ravaged planet, another ray of hope shines through the gloom.
+
+When every human chooses to stop breeding, Earth’s biosphere will be allowed to return to its former glory, and all remaining creatures will be free to live, die, evolve (if they believe in evolution), and will perhaps pass away, as so many of Nature’s “experiments” have done throughout the eons.
+
+It’s going to take all of us going.
+
+Are you really serious?
 -----------------------
 
-As we move forward, every step needs to reduce the damage we are doing to our environment.
+We’re really vehement.
 
-Invest in healthcare and social services
-----------------------------------------
+Many see humor in The Movement and think we can’t be serious about voluntary human extinction, but in spite of the seriousness of both situation and movement, there’s room for humor. In fact, without humor, Earth’s condition gets unbearably depressing—a little levity eases the gravity.
 
-The pandemic has exposed the weaknesses in our health care systems. Let us copy the systems that benefited people the most and replicate them across the globe.
+True, wildlife rapidly going extinct and tens of thousands of children dying each day are not laughing matters, but neither laughing nor bemoaning will change what’s happening. We may as well have some fun as we work and play toward a better world.
 
-Cooperation > Competition
--------------------------
+Besides, returning Earth to its natural splendor and ending needless suffering of humanity are happy thoughts—no sense moping around in gloom and doom.
 
-Until now there has been too much emphasis on competition. We’re all in this together and we need to stop fighting each other and work together to take on the world’s problems.
+Do Volunteers expect to be successful?
+--------------------------------------
 
-Focus on sharing and leadership
--------------------------------
+VHEMT Volunteers are realistic. We know we’ll never see the day there are no human beings on the planet. Ours is a long-range goal.
 
-Improve your own life by helping others. Stop idolizing the rich; start dreaming about leading people to make the world a better place.
+It has been suggested that there are only two chances of everyone volunteering to stop breeding: slim and none. The odds may be against preserving life on Earth, but the decision to stop reproducing is still the morally correct one. Indeed, the likelihood of our failure to avoid the massive die off which humanity is engineering is a very good reason to not sentence another of us to life. The future isn’t what it used to be.
 
-Treat people with care and respect
-----------------------------------
+Even if our chances of succeeding were only one in a hundred, we would have to try. Giving up and allowing humanity to take its course is unconscionable. There is far too much at stake.
 
-Be mindful and work to ensure that all people have their basic needs covered. Respect workers and reward them fairly.
+The Movement may be considered a success each time one more of us volunteers to breed no more. We are being the change we want to see in the world.
 
-Demand transparency
+Does VHEMT have any enemies?
+----------------------------
+
+After we’ve seen a few hundred TV dramas where the good guy kicks the bad guy’s butt, it’s tempting to look at the real world with this same knee jerk, zero-sum mentality. We might look for an enemy to attack when championing our righteous cause, but in reality our enemy doesn’t have a butt to kick.
+
+In the end, the real “enemies” are human greed, ignorance, and oppression. We can achieve more by promoting generosity, awareness, and freedom than we can by vainly kicking at a buttless foe.
+
+Great progress will be made toward improving the quality of life on Earth by countering greed with responsibility, ignorance with education, and oppression with freedom.
+
+Instead of meeting the bad guys in the street at high noon and shooting it out, why not invite them into the saloon to work things out?
+
+What is the official position of VHEMT?
+---------------------------------------
+
+Since the Voluntary Human Extinction Movement isn’t alive with a brain or a mouth, it can’t take positions or have opinions. It can’t get into arguments, tell people what to do and think, nor get punched for doing so.
+
+Voluntary human extinction is simply a concept to be added to existing belief systems, not a complex code of behavior to live by. No committee of Movement shakers decides what position everyone else should take.
+
+Most Volunteers subscribe to the philosophy embodied in the motto “May we live long and die out”, but if someone doesn’t want to live long that’s their business. Really, the only action required for becoming a VHEMT Volunteer or Supporter is not adding another human being to the population. A couple could conceivably be expecting and decide to become VHEMT. That new human would be the last one they produced. VHEMT Supporters are not necessarily in favor of human extinction, but agree that no more of us should be created at this time.
+
+Volunteers are so diverse in religious, political, and philosophical views that it would be divisive to begin formulating official Movement positions. Beware of dogmas. We speak with our own voices.
+
+When and how did VHEMT start?
+-----------------------------
+
+Roots of VHEMT run as deep as human history. Potential for a voluntary human extinction movement has been around for as long as humans have.
+
+When Ice Age humans hunted animals to extinction, at least one of the sapient neanderthals among them may have reasoned beyond bewilderment. As the Fertile Crescent became a barren desert, and the Cedars of Lebanon were sacrificed for temples, someone must have thought, “this bodes ill.” When Romans fueled their empire by extracting resources from near and far, surely someone remarked, “Humanus non gratis,” or words to that effect. Someone had to get the idea that the planet would be better off without this busy horde.
+
+Someone, that is, besides the middle-eastern god, Yahweh/Jehovah/Allah. Tradition tells how, in prehistoric times, this creator-god realized his mistake in making humans and was going to flush us from the system, but in a weak moment he spared one breeding family. Oops! (Genesis 6: 1-22).
+
+The Story of Atrahasis, an earlier Sumerian myth recorded in Babylonian text, tells of multiple gods conspiring to rid Earth of the bothersome creatures they had molded out of clay. One sneaky god warns a human to build a boat before the flood, and the rest is our history.
+
+We call The Movement VHEMT, but it’s undoubtedly been given other names throughout history. None have been recorded, as far as we know.
+
+There must be millions of people around the world who are independently arriving at the same conclusion. A large portion of today’s Volunteers were vehement extinctionists before they learned of the title “VHEMT”.
+
+The true origins of The Movement can be found in the natural abundance of love and logic within each one of us. Our in-born sense of justice guides us to make the responsible choice.
+
+Who is the founder?
 -------------------
 
-We need to weave transparency into all governments and public institutions. Without transparency we cannot ensure that governments and companies are following the law.
+No one person is the founder of VHEMT. Les U. Knight gave the name “Voluntary Human Extinction Movement” to a philosophy or worldview which has existed for as long as humans have been sapient. It’s an awareness which has been arrived at independently in many places throughout history, but had become lost amid societies’ natalism.
 
----
+Like millions of other people, Les followed a simple train of logic, guided by love, and arrived at the conclusion that Gaia would be better off without humans. He could be considered the finder, having identified The Movement by giving it a name, though each of us finds the truth for ourselves.
 
-The Manifesto Explained
-=======================
+Although Les has become known internationally as a spokesperson for The Movement, no one can speak for all VHEMT Volunteers. There is no official position on issues beyond what is implied in the name of The Movement.
 
-The manifesto for a better world aims to establish a baseline of basic human needs and immediate goals that we need to strive for as the world emerges from the coronavirus pandemic. The goal is to raise the awareness that we all have common goals and that we should be working together to cover human needs and to take care of our environment.
+We have children. Can we still join?
+------------------------------------
 
-This document doesn’t pretend to solve anything but focus people on our common needs as a species. If people believe in this manifesto, we encourage people to take this manifesto and adapt it for your region of the world to address your specific situation. And then we must force our governments to uphold this manifesto to take decisive action to improve the lives of everyone. If the governments refuse, then it is a clear indication that they no longer represent the people and more drastic change is required.
+Today’s children are tomorrow’s destiny. Our children have the potential for achieving the awareness needed to reverse civilization’s direction and begin restoring Earth’s biosphere. Most could use our help in realizing their full potentials.
 
-The precise next steps are up to each country and region to decide. We encourage you to help spread this manifesto, to help translate it and to build derivative versions specific to your country or region. And then step into action!
+Naturally you’re welcome to join, and you won’t be alone. When people gain the VHEMT perspective, they decide to add no more to the existing human family. They don’t pressure their children to give them grandchildren and might encourage them to make a responsible choice with their fertility.
 
-The remainder of this document is a more in depth explanation of the points in the manifesto. It goes a little deeper into defining the problems and outlining our thinking.
+There is no reason to feel guilty about the past. Guilt doesn’t lead to positive solutions. Being VHEMT has little to do with the past. It’s the future of life on Earth that Volunteers want to preserve.
 
-
-Bail out people, not corporations
+Are some people opposed to VHEMT?
 ---------------------------------
 
-Events like pandemics where the economy of a country crashes, require the government to step in and help to restart the economy. In the recent past many governments have chosen to invest in companies in an effort to stimulate the economy with the theory that money would eventually reach the people.
+At first glance, some people assume that VHEMT Volunteers and Supporters must hate people and that we want everyone to commit suicide or become victims of mass murder. It’s easy to forget that another way to bring about a reduction in our numbers is to simply stop making more of us. Making babies seems to be a blind spot in our outlooks on life.
 
-Most of the time that never happened and during the Coronavirus pandemic, we are seeing airlines pay massive dividends at the same time as they are being bailed out. If we bail out corporations, we’re only going to increase the divide between the rich and poor, leading to greater desperation and poverty which will drive up crime.  
+The idea of all of us voluntarily refraining from procreation is often dismissed without much consideration. These examples are considered elsewhere at this site:
 
-Instead of bailing out corporations, who will not look out for citizens, governments should bail out the citizens themselves. Citizens will have the power to restart their life and will choose where to spend the government support money. This in turn will benefit the companies that the citizens need the most and the citizens of the country will decide which companies should survive and which ones should be left behind. 
+ - “People are going to have sex, you can’t stop that.”
+ - “It’s a human instinct to breed.”
+ - “But I just love babies.”
+ - “Some of us should reproduce because we’re better than others.”
+ - “Humans are a part of Nature.”
+ - And so on.
 
+However, if any of us thinks about the situation long enough, and makes the effort to work through those socially-instilled blocks to clear thinking, we will arrive at virtually the same conclusion: we should voluntarily phase ourselves out for the good of humanity and planet.
 
-Focus on climate change and our environment
--------------------------------------------
+VHEMT is naturally in opposition to involuntary extinction of any species, as well as any efforts encouraging human extermination. There are presently concerted efforts supporting both of these horrors. For example:
 
-The coronavirus pandemic has also shown how bad pollution is in this world. The most polluted cities suddenly have blue skies now that drastically fewer cars and planes are polluting our environment. It also showed that people who chronically live with bad air are much more likely to be negatively impacted by the coronavirus.
+ - Production and use of weapons.
+ - Toxin production, such as petrochemical and nuclear.
+ - Exploitation of natural and human resources.
+ - Promotion of reproductive fascism.
+ - And so on.
 
-We can take the lessons learned during the pandemic and reduce our impact on our planet? How can we commute less? Can we have more online meetings and travel less to business meetings? What sustainable technologies can we invest in to displace the polluting technologies?
+The above could be called the Terrorist Human Extermination Movement (THEM), but that’s labeling and encourages a “Them or Us” attitude.
 
-Now that many sectors of greenhouse gas emitting industries are idled, we’ve drastically reduced our global carbon footprint. We must work hard to keep our CO2 emissions as low as possible as we return to a post Coronavirus world. We must protect our air, our oceans, our forests and our topsoil -- we can no longer steal from mother nature. We must invest in sustainable solutions so that we can care for mother nature. It is our only choice if we wish to survive as a species.
+VHEMT is opposed to what these people are doing, but it’s doubtful any would bother to return the favor. Really, there isn’t much point in opposing a voluntary movement which harms none and benefits all.
 
-
-Invest in Healthcare and Social Services
-----------------------------------------
-
-Health care is a basic human right and all governments should provide healthcare to everyone, without exception. The epidemic has clearly shown which health care systems work well and which ones do not. We should examine which countries met the challenge well and copy their systems and have our nations be similarly prepared.
-
-Having sufficient shelter and food for every family is also a human right. Too many governments spend money on defense and lavish projects while families go hungry and without shelter. We must hold governments accountable to provide basic human services for all of their citizens. 
-
-We should spend more money on human health than we spend on defense and war and we should never let health care be for-profit.
-
-
-Cooperation > Competition
--------------------------
-
-We have enough resources in this world to cover everyone's basic needs. But drastic inequality prevents this from happening as some people hoard resources and money. We need to reduce the inequality and free up resources to cover everyone’s basic needs. Especially now during a pandemic, we need to freely share medical information and cooperate on treatments, vaccines and medical devices in order to save lives.
-
-Competing for resources can often be wasteful. How can we focus on cooperating in order to cover the basic needs of all people? The open source movement that produces much of the software that makes the Internet possible is created via global cooperation. This cooperation consumes far fewer resources than a competitive model would consume. How can we cooperate more and compete less?
-
-
-Focus on sharing and leadership
--------------------------------
-
-Many people idolize the wrong role models. Many of the people whom society looks up to prey on the poor, disrespect other people and focus on questionable human values.
-
-If these role models are hoarding resources and actively creating inequality in the world, why do we look up to them? Hoarding resources does not stimulate the economy and when you have more than you need to live well and you are not sharing these resources, you are violating basic human decency. Being disrespectful or preying on others are not human qualities we should look up to or reward.
-
-Instead we should look up to people who help their communities, people who can effectively lead and people who serve. We need to look up to people who work to ensure everyone has their basic needs covered. We need to look up to people who can inspire future generations.
-
-
-Treat people with care and respect
-----------------------------------
-
-We must always treat people with the care and respect with which we wish to be treated. All workers should be treated and paid fairly and we need to recognize that our essential workers who saved us during the pandemic were the most poorly paid people. We must fix this and pay everyone a fair living wage and provide safe working conditions.
-
-We should also be excellent to others -- everyone is allowed to have a bad day once in a while, but this is no reason to disrespect others. Give people as much space as you can, but be as polite and fair as you can be.
-
-
-Demand Transparency
--------------------
-
-The epidemic showed that transparent governments had the best response to the virus. Sadly very few governments are transparent since transparency makes it more difficult to hide bad deeds. Many governments will claim that transparency is not possible for national security reasons, when only a small amount of information really must remain classified.
-
-In our competitive world we default to data being closed and not sharing with anyone. 
-Once again we should examine the open source and open data movements to see how free sharing of information can drastically improve life for everyone.
-
-We should shift from a mentality of “everything must be closed, but open some things” to “everything is open, but a few things must remain closed”. When information is freely shared people can be more engaged in their government and people can work to ensure that governments are not stealing from the public. 
-
-
-
-Call to Action
+How do I join?
 --------------
 
-Right now the world is in a unique situation we’ve not experienced in modern times. It is an opportunity to address some drastic problems in our world. We’re failing to uphold basic human rights and needs and the pandemic has painfully laid this bare.
+Being VHEMT is a state of mind. All you have to do to join is make the choice to refrain from further reproduction. For some, this is an easy decision to make. For others, it’s a moot issue. But for many, joining The Movement means making a monumental personal sacrifice.
 
-Every nation and regions should take this manifesto as a basis and adapt it for their own culture and problems. Then we should take steps to ensure that we do not return to the broken world that used to be normal.
-
-Now is the time to start: We have lots of time to think about how the future should be shaped. 
-
+The Voluntary Human Extinction Movement is not an organization, so no membership dues go to officials in offices. We are millions of individuals, each doing what we feel is best. Join with other VHEMT Volunteers and Supporters. 
