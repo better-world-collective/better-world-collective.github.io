@@ -102,7 +102,7 @@ that displace the polluting technologies.
 Now that many sectors of greenhouse gas emitting industries are idled, we’ve drastically reduced our global 
 carbon footprint. We must work hard to keep our polluting emissions as low as possible as we return to a post
 Coronavirus world. We must protect our air, our oceans, our forests and our topsoil -- we can no longer steal 
-from mother nature. We must invest in sustainable solutions so that we can care for mother nature. It is our 
+from nature. We must invest in sustainable solutions so that we can care for our environment. It is our 
 only choice if we wish to survive as a species.
 
 
