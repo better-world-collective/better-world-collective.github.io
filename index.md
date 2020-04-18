@@ -1,7 +1,9 @@
 Translations: | [Català](manifesto_for_a_better_world_CA.md) | [Deutsch](manifesto_for_a_better_world_DE.md) | [Français](manifesto_for_a_better_world_FR.md)
 
-The Better World Manifesto
+The Better World Manifesto 
 ==========================
+
+Version 1
 
 Bail out people, not corporations
 ---------------------------------
