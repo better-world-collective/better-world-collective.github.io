@@ -1,9 +1,7 @@
 Translations: | [Català](manifesto_for_a_better_world_CA.md) | [Deutsch](manifesto_for_a_better_world_DE.md) | [Français](manifesto_for_a_better_world_FR.md)
 
-The Better World Manifesto 
+The Better World Manifesto
 ==========================
-
-Version 1
 
 Bail out people, not corporations
 ---------------------------------
@@ -26,7 +24,7 @@ Cooperation > Competition
 -------------------------
 
 Until now there has been too much emphasis on competition. We’re all in this together and we need 
-to stop fighting each other and work together to take on the world’s problems.
+to stop fighting each other and work with others to take on the world’s problems.
 
 Focus on sharing and leadership
 -------------------------------
@@ -37,7 +35,7 @@ to make the world a better place.
 Treat people equally and with respect
 -------------------------------------
 
-Be mindful and work to ensure that all people are treated equally and have their basic needs 
+Be mindful and work to ensure that all people are treated equally and have their basic needs
 covered. Respect workers and reward them fairly.
 
 Demand transparency and facts
@@ -45,6 +43,8 @@ Demand transparency and facts
 
 We need to weave transparency into all governments and public institutions, to ensure that governments 
 and companies follow the law. We should value facts and apply critical thinking.
+
+*Version 1.0*
 
 ---
 
@@ -95,12 +95,12 @@ The coronavirus pandemic has also shown how bad pollution is in this world. The 
 have blue skies now that drastically fewer cars and planes are polluting our environment. It also showed that 
 people who chronically live with bad air are much more likely to be negatively impacted by the coronavirus.
 
-We can take the lessons learned during the pandemic and reduce our impact on our planet? How can we commute less? 
-Can we have more online meetings and travel less to business meetings? What sustainable technologies can we 
-invest in to displace the polluting technologies?
+We can take the lessons learned during the pandemic and reduce our impact on our planet. We should commute less,
+have more online meetings and travel to fewer business meetings. Let us invest in sustainable technologies
+that displace the polluting technologies.
 
 Now that many sectors of greenhouse gas emitting industries are idled, we’ve drastically reduced our global 
-carbon footprint. We must work hard to keep our CO2 emissions as low as possible as we return to a post 
+carbon footprint. We must work hard to keep our polluting emissions as low as possible as we return to a post
 Coronavirus world. We must protect our air, our oceans, our forests and our topsoil -- we can no longer steal 
 from mother nature. We must invest in sustainable solutions so that we can care for mother nature. It is our 
 only choice if we wish to survive as a species.
@@ -133,10 +133,9 @@ from happening as some people hoard resources and money. We need to reduce the i
 to cover everyone’s basic needs. Especially now during a pandemic, we need to freely share medical information and 
 cooperate on treatments, vaccines and medical devices in order to save lives.
 
-Competing for resources can often be wasteful. How can we focus on cooperating in order to cover the basic needs 
-of all people? The open source movement that produces much of the software that makes the Internet possible is created 
-via global cooperation. This cooperation consumes far fewer resources than a competitive model would consume. How 
-can we cooperate more and compete less?
+Competing for resources can often be wasteful. Let us focus on cooperating in order to cover the basic needs
+of all people. The open source movement that produces much of the software that makes the Internet possible is created
+via global cooperation. This cooperation consumes far fewer resources than a competitive model would consume.
 
 
 Focus on sharing and leadership
@@ -145,13 +144,13 @@ Focus on sharing and leadership
 Many people idolize the wrong role models. Many of the people whom society looks up to prey on the poor, disrespect 
 other people and focus on questionable human values.
 
-If these role models are hoarding resources and actively creating inequality in the world, why do we look up to them? 
-Hoarding resources does not stimulate the economy and when you have more than you need to live well and you are not 
-sharing these resources, you are violating basic human decency. Being disrespectful or preying on others are not human 
-qualities we should look up to or reward.
+These role models are hoarding resources and actively creating inequality in the world, so we should stop looking up
+to them. Hoarding resources does not stimulate the economy and when you have more than you need to live well and you
+are not sharing these resources, you are violating basic human decency. Being disrespectful or preying on others are
+not human qualities we should look up to or reward.
 
-Instead we should look up to people who help their communities, people who can effectively lead and people who serve. 
-We need to look up to people who work to ensure everyone has their basic needs covered. We need to look up to people 
+Instead we should look up to people who help their communities, people who can effectively lead and people who serve.
+We need to look up to people who work to ensure everyone has their basic needs covered. We need to look up to people
 who can inspire future generations.
 
 
@@ -174,9 +173,9 @@ The epidemic showed that transparent governments had the best response to the vi
 transparent since transparency makes it more difficult to hide bad deeds. Many governments will claim that transparency 
 is not possible for national security reasons, when only a small amount of information really must remain classified.
 
-In our competitive world we default to data being closed and not sharing with anyone.  Once again we should examine the 
+In our competitive world we default to data being closed and not sharing with anyone. Once again we should examine the
 open source and open data movements to see how free sharing of information can drastically improve life for everyone.
-We must learn to be more open to allow people to engage with their governments for freely.
+We must learn to be more open to allow people to engage with their governments more freely.
 
 We must demand facts and verifyable information and we must avoid biased opinions, misleading information, and false 
 advertising. We need to teach critical thinking at a young age and encourage people to be critical of their 
